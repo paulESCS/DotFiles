@@ -38,7 +38,6 @@ return {
 				"docker_compose_language_service",
 				"jsonls",
 				"marksman",
-				"sqls",
 				"lemminx",
 				"yamlls",
 			},
