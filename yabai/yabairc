@@ -37,7 +37,8 @@ yabai -m rule --add app="^Music$" manage=off
 yabai -m rule --add app="^Preview$" manage=off
 yabai -m rule --add app="^Finder$" manage=off
 yabai -m rule --add app="^Paralells Desktop$" manage=off
-yaba -m rule --add app="^BackupExec$" manage=off
+yabai -m rule --add app="^BackupExec$" manage=off
+
 
 
 
